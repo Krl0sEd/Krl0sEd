@@ -2,6 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS);  
 💻 Apaixonado por tecnologia, web development e projetos que fazem a diferença;
+
 🚀 "Debugging life one commit at a time".
 
 ## 🛠️ Tecnologias que uso:

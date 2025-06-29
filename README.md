@@ -2,7 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS);  
 💻 Apaixonado por tecnologia, web development e projetos que fazem a diferença;
-🚀 ExCoding my way through college — one project at a time.
+🚀 "Debugging life one commit at a time".
 
 ## 🛠️ Tecnologias que uso:
 

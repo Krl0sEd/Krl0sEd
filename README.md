@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Carlos Eduardo
+# 👋 Hi! I'm Carlos Eduardo
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS);  
 💻 Apaixonado por tecnologia, web development e projetos que fazem a diferença;

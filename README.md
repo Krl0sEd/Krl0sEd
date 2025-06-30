@@ -23,7 +23,7 @@ Atualmente trabalhando para a **EMPRESA PUBLICA DE SAUDE DO RIO DE JANEIRO S/A -
 
 ## 📈 GitHub Stats
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosbucazio&show_icons=true&theme=dracula)
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krl0sEd&show_icons=true&theme=dracula)
 
 ## 🌱 Em constante aprendizado
 

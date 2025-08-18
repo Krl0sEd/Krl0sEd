@@ -48,9 +48,12 @@ Atualmente focado em:
 
 ## 📫 Onde me encontrar?
 
-- **GitHub:** [github.com/Krl0sEd](https://github.com/Krl0sEd)
-- **Linkedin:** [linkedin.com/in/carlos-eduardo-de-oliveira-bucazio-516a7937a](https://www.linkedin.com/in/carlos-eduardo-de-oliveira-bucazio-516a7937a)
-- **E-mail:** [cbucazio@gmail.com](mailto:cbucazio@gmail.com)
+## 👩‍💻 Colaborador principal
+
+📧 Email: [cbucazio@gmail.com](mailto:cbucazio@gmail.com)
+🌐 GitHub: [Krl0sEd](https://github.com/Krl0sEd)
+🧑‍💼 Linkedin: [linkedin.com/in/carlos-eduardo-de-oliveira-bucazio-516a7937a](https://www.linkedin.com/in/carlos-eduardo-de-oliveira-bucazio-516a7937a)
+
 
 ---
 

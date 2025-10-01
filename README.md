@@ -55,7 +55,6 @@ Atualmente trabalhando para a **EMPRESA PUBLICA DE SAUDE DO RIO DE JANEIRO S/A -
 |                                                                                                           |                                                                              |                                                                           | ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white)                        |
 |                                                                                                           |                                                                              |                                                                           | ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)                              |
 
-
 ## 📈 GitHub Stats
 
 ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krl0sEd&show_icons=true&theme=dracula)

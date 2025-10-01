@@ -67,8 +67,8 @@ Atualmente trabalhando para a **EMPRESA PUBLICA DE SAUDE DO RIO DE JANEIRO S/A -
 ## 🌱 Em constante aprendizado
 
 Atualmente focado em:
-- Aprimorar meus conhecimentos em bibliotecas externas e outros fireworks para otimização de código;
-- Melhorar meus conhecimentos em Node.Js, React e Laravel;
+- Aprimorar meus conhecimentos em bibliotecas externas e outros frameworks para otimização de código;
+- Melhorar meus conhecimentos em Node.Js, React/Next e Python para APIrest;
 - Boas práticas com Git e GitHub (versionamento).
 
 

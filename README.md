@@ -60,9 +60,8 @@ Atualmente trabalhando para a **EMPRESA PUBLICA DE SAUDE DO RIO DE JANEIRO S/A -
 
 ## 📈 GitHub Stats
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krl0sEd&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krl0sEd&layout=compact&theme=dracula)
-
+![Carlos's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Krl0sEd&show_icons=true&theme=dracula&cache_seconds=86400)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Krl0sEd&layout=compact&theme=dracula&cache_seconds=86400)
 
 ## 🌱 Em constante aprendizado
 

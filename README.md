@@ -7,7 +7,7 @@
 
 ## 🏢 Minha profissão atual
 
-Atualmente trabalhando para a **EMPRESA PUBLICA DE SAUDE DO RIO DE JANEIRO S/A - RIOSAUDE** como aprendiz administrativo no setor de **TI**.
+Atualmente trabalhando para a **UPGRADE TI - Soluções em TI para Empresas** como Estagiário de **TI**.
 
 ## 🛠️ Tecnologias e ferramentas
 

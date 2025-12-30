@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Carlos Eduardo
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS);  
-💻 Apaixonado por tecnologia, web development e projetos que fazem a diferença;
+💻 Apaixonado por tecnologia, suporte, redes, infra, cloud, backend e projetos que fazem a diferença;
 
 🚀 "Debugging life one commit at a time".
 

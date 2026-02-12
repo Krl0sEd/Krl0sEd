@@ -48,30 +48,27 @@ Atualmente trabalhando para a **UPGRADE TI - Soluções em TI para Empresas** co
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
 
 ### 💻 Frontend (Competências Complementares)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
 ## 🛠️ Informações técnicas
 
-| **Frontend** | **Backend** | **Banco de Dados** | **Ferramentas & Outros** | **Protocolo & Web** |
-|--------------|-------------|--------------------|---------------------------|----------------------|
-| ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) | ![HTTP](https://img.shields.io/badge/-HTTP-FF6C37?logo=http&logoColor=white) |
-| ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-DB0022?logo=phpmyadmin&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) | ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=websocket&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?logo=mysql&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) | ![TLS](https://img.shields.io/badge/-TLS-0A0A0A?logo=letsencrypt&logoColor=white) |
-| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | &nbsp; | &nbsp; | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
-| ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) | &nbsp; | &nbsp; | ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white) | ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?logo=insomnia&logoColor=white) |
-| ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?logo=framer&logoColor=white) | &nbsp; | &nbsp; | ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white) | &nbsp; |
-| ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) | &nbsp; | &nbsp; | ![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-F80000?logo=oracle&logoColor=white) | &nbsp; |
-| ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white) | &nbsp; | &nbsp; | ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white) | &nbsp; |
-| &nbsp; | &nbsp; | &nbsp; | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) | &nbsp; |
-| &nbsp; | &nbsp; | &nbsp; | ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white) | &nbsp; |
-| &nbsp; | &nbsp; | &nbsp; | ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) | &nbsp; |
+| **Infra, Cloud & OS** | **DevOps & Automação** | **Redes & Web Servers** | **Backend & Banco** | **Frontend (Fullstack)** |
+|:--- |:--- |:--- |:--- |:--- |
+| ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) | ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
+| ![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-F80000?logo=oracle&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) | ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) | ![HTTP](https://img.shields.io/badge/-HTTP-005571?logo=http&logoColor=white) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) |
+| ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) | ![DNS](https://img.shields.io/badge/-DNS-4285F4?logo=google-domains&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
+| ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white) | ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) | ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=websocket&logoColor=white) | ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-DB0022?logo=phpmyadmin&logoColor=white) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) |
+| ![Windows Server](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white) | ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) | ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?logo=mysql&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white) |
+| &nbsp; | ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white) | ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?logo=insomnia&logoColor=white) | ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) |
+| &nbsp; | &nbsp; | ![TLS](https://img.shields.io/badge/-TLS-0A0A0A?logo=letsencrypt&logoColor=white) | &nbsp; | ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?logo=framer&logoColor=white) |
 
 ## 📈 GitHub Stats
 

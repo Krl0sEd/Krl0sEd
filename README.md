@@ -9,6 +9,10 @@
 
 Atualmente trabalhando para a **UPGRADE TI - Soluções em TI para Empresas** como Estagiário de **TI**.
 
+## 🏆 Certificações e Estudos
+
+* 🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)** * 📚 *Estudando atualmente para:* **Microsoft SC-900** (Security, Compliance, and Identity) e **LPI Linux Essentials**
+
 ## 🛠️ Tecnologias e ferramentas
 
 ### ☁️ Cloud Computing & DevOps (Foco Principal)
